@@ -1,2 +1,1 @@
-# unsupervised_opennet
-Unsupervised Open Set Recognition
+# Unsupervised Open Set Recognition
